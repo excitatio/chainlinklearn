@@ -854,6 +854,10 @@ export const SIDEBAR: Partial<Record<Sections, SectionEntry[]>> = {
           url: "ccip/tutorials/programmable-token-transfers",
         },
         {
+          title: "Manual execution",
+          url: "ccip/tutorials/manual-execution",
+        },
+        {
           title: "Transfer Tokens With Data - Defensive Example",
           url: "ccip/tutorials/programmable-token-transfers-defensive",
         },
